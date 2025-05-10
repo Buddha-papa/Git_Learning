@@ -1,0 +1,4 @@
+/root/FileReader/build/CMakeFiles/math_utils.dir
+/root/FileReader/build/CMakeFiles/my_app.dir
+/root/FileReader/build/CMakeFiles/edit_cache.dir
+/root/FileReader/build/CMakeFiles/rebuild_cache.dir

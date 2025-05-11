@@ -4,6 +4,6 @@
 #include <vector>
 
 // 函数声明
-int add(int m, int n);
+int add(int m, int k);
 
 #endif
